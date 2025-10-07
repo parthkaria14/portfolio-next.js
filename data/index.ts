@@ -74,7 +74,7 @@ export const navItems = [
     title: "Nyaya-Sahay – AI Legal Chatbot",
     des: "An AI-powered legal chatbot handling 5,000+ queries with 1.5s avg response time using RAG, FastAPI, and Dockerized AWS deployment.",
     img: "/p1.svg",
-    iconLists: ["/py.svg", "/fastapi.svg", "/aws.svg", "/docker.svg", "/llama.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/parthkaria14/nyaya-sahay-SIH2024",
   },
   {
